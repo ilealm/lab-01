@@ -1,0 +1,6 @@
+/* Rules that target smaller reusable pieces 
+Are the reusable, modular parts of our design. They are the callouts, the sidebar sections, 
+the product lists and so on.
+Module is a more discrete component of the page. It is your navigation bars and your carousels 
+and your dialogs and your widgets and so on.
+*/

@@ -1,0 +1,22 @@
+/* Rules that are meant to providing styling for different app states
+Are ways to describe how our modules or layouts will look when in a particular state. 
+Is it hidden or expanded? Is it active or inactive? They are about describing how a module or layout 
+looks on screens that are smaller or bigger. They are also about describing how a module might look in 
+different views like the home page or the inside page.
+*/
+
+/* .tab {
+  background-color: purple;
+  color: white;
+}
+
+.is-tab-active {
+  background-color: white;
+  color: black;
+} 
+
+// with jQuery
+$('.btn-close').click(function(){ 
+    $(this).parents('.dialog').addClass('is-hidden');        
+})
+*/
