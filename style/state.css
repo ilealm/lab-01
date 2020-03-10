@@ -9,6 +9,8 @@ different views like the home page or the inside page.
   background-color: purple;
   color: white;
 }
+a { color: #039; }
+a:hover { color: #03C; }
 
 .is-tab-active {
   background-color: white;
